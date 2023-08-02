@@ -35,8 +35,7 @@
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tcjiao&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
-</tr>
-
+  
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
